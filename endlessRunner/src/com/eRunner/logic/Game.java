@@ -1,5 +1,7 @@
 package com.eRunner.logic;
 
+import com.eRunner.gui.*;
+
 public class Game implements Runnable{
 
 	@Override
@@ -10,7 +12,7 @@ public class Game implements Runnable{
 	
 	public Game() {
 		// TODO Auto-generated constructor stub
-		run();
+		Window myWin = new Window();
 	}
 
 }
