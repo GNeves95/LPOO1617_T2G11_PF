@@ -11,11 +11,17 @@ O jogo acaba quando os pontos de um dos 2 jogadores chegar ao 0.
 À medida que o tempo passa o player 1 corre cada vez mais rapido e o cooldown de spwan de obstaculos do player 2 diminui.
 
 Lista de obstaculos:
+
 Firebool: ondas ao nivel do player 1 (tem que ser desviado atraves de um salto)
+
 Bigorna: cai do top direito do ecrâ até perto do player 1, tem que ser saltado
+
 Arrow: linha reta ao nivel da cabeça do player 1 ou mais alto ou ao nivel dos pes(saltar ou agachar)
+
 Spikes: aparecem ao nivel do chão
 
-BFLayza: linha azul fina aparece ao nivel do jogador usando o comprimento todo do ecrâ. ao fim de x tempo a linha fica mais grossa causando
-dano imediato. tem que se saltar no momento certo
+BFLayza: linha azul fina aparece ao nivel do jogador usando o comprimento todo do ecrâ. ao fim de x tempo a linha fica mais grossa causando dano imediato. tem que se saltar no momento certo
+
+
+Consultar http://williammora.com/a-running-game-with-libgdx-part-1
 
