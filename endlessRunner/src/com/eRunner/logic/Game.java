@@ -1,6 +1,6 @@
 package com.eRunner.logic;
 
-import com.eRunner.gui.*;
+//import com.eRunner.gui.*;
 
 public class Game implements Runnable{
 
@@ -12,7 +12,7 @@ public class Game implements Runnable{
 	
 	public Game() {
 		// TODO Auto-generated constructor stub
-		Window myWin = new Window();
+		//Window myWin = new Window();
 	}
 
 }
