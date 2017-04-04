@@ -7,5 +7,10 @@ public class Game implements Runnable{
 		// TODO Auto-generated method stub
 		
 	}
+	
+	public Game() {
+		// TODO Auto-generated constructor stub
+		run();
+	}
 
 }
